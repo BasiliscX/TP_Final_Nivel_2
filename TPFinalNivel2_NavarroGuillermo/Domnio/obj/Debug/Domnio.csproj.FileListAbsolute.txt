@@ -1,0 +1,6 @@
+C:\Users\Mega\Desktop\ProyectoC#\TPFinalNivel2_NavarroGuillermo\Domnio\bin\Debug\Domnio.dll
+C:\Users\Mega\Desktop\ProyectoC#\TPFinalNivel2_NavarroGuillermo\Domnio\bin\Debug\Domnio.pdb
+C:\Users\Mega\Desktop\ProyectoC#\TPFinalNivel2_NavarroGuillermo\Domnio\obj\Debug\Domnio.csproj.AssemblyReference.cache
+C:\Users\Mega\Desktop\ProyectoC#\TPFinalNivel2_NavarroGuillermo\Domnio\obj\Debug\Domnio.csproj.CoreCompileInputs.cache
+C:\Users\Mega\Desktop\ProyectoC#\TPFinalNivel2_NavarroGuillermo\Domnio\obj\Debug\Domnio.dll
+C:\Users\Mega\Desktop\ProyectoC#\TPFinalNivel2_NavarroGuillermo\Domnio\obj\Debug\Domnio.pdb
